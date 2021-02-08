@@ -20,4 +20,5 @@ git clone https://github.com/liuran001/openwrt-packages
 git clone https://github.com/destan19/OpenAppFilter.git
 git clone https://github.com/zzsj0928/luci-app-serverchand
 git clone https://github.com/siropboy/luci-theme-btmod 
-
+git clone https://github.com/kenzok8/openwrt-packages.git  package/openwrt-packages
+git clone https://github.com/kenzok8/small.git  package/openwrt-small
